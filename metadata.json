@@ -1,0 +1,5 @@
+{
+  "name": "LavaSmart - Calculadora de Carga",
+  "description": "Una aplicación inteligente para calcular el peso de la ropa en seco y mojado, ayudando a proteger la vida útil de tu lavadora.",
+  "requestFramePermissions": []
+}
